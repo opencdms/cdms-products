@@ -1,4 +1,4 @@
-# cdms-products
+# surface-products
 
 OpenCDMS aims to provide an interface to stand-alone R packages to make them easy to use/integrate with supported CDMSs.
 
